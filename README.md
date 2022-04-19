@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Bread Crumb Demo
-![Bread Crumb](https://github.com/demo.png?raw=true)
+![Bread Crumb](https://github.com/MahmonirB/react-bread-crumb/blob/main/public/demo.png?raw=true)
 
 ## Available Scripts
 
