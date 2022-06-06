@@ -5,6 +5,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Bread Crumb Demo
 ![Bread Crumb](https://github.com/MahmonirB/react-bread-crumb/blob/main/public/demo.png?raw=true)
 
+## Usage
+
+> const breadCrumbList = ['Brand MW', 'Overview', 'More details'];
+> <BreadCrumb breadCrumbList={breadCrumbList} title="Knowledge Table" />
+
 ## Available Scripts
 
 In the project directory, you can run:

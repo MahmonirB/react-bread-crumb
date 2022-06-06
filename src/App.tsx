@@ -5,7 +5,7 @@ const breadCrumbList = ['Brand MW', 'Overview', 'More details'];
 
 function App() {
   return (
-      <div style={{ display: 'flex', margin: '16px' }}>
+      <div style={{ margin: '16px' }}>
         <BreadCrumb breadCrumbList={breadCrumbList} title="Knowledge Table" />
       </div>
   );
